@@ -1,6 +1,6 @@
 # CPA-ER
 
-You can easily download the Amazon datasets from [here.](https://nijianmo.github.io/amazon/)
+You can download the Amazon datasets from [here.](https://nijianmo.github.io/amazon/)
 
 If you want to process your own data, you will need: user-item interaction data, user and item review information (for extracting auxiliary information), and relationship data related to items, such as brand, category, attributes, etc., that can be processed into knowledge graph triples.
 
